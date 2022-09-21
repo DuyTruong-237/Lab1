@@ -1,0 +1,14 @@
+#noti{
+    border: 2px;
+    border-style: outset;
+    border-radius: 20px;
+}
+.ul{
+    text-size-adjust: 20px;
+}
+#noti{
+    color: #1505a5;
+}
+.titlenoti >li>a{
+   margin-top: 5px;
+}
