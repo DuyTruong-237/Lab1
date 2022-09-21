@@ -1,0 +1,10 @@
+body{
+    margin: 50px;
+}
+#header{
+    display: flex;
+}
+.profile{
+    margin-left: 20px;
+    color: rgb(13, 13, 100);
+}
