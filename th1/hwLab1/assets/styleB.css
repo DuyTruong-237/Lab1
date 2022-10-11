@@ -2,14 +2,15 @@ body{
    
 }
 #main2{
-    display: inline-flex;
+    
     
 }
-#main2 div{
+#main2 div div{
     width: 100px;
     height: 150px;
     font-size: 40px;
-    
+    display: inline-flex;
+   
     margin-left: 10px;
     border-left-style:dotted ;
    
@@ -18,7 +19,7 @@ body{
     background-color: rgb(243, 240, 240);
 }
 
-#main2 div:hover
+#main2 div div:hover
 {
     color: rgb(167, 129, 7);
     background-color: rgb(247, 235, 66);
@@ -36,7 +37,7 @@ body{
 }
 #main2 .item3{
     
-   display: block-flow;
-
+   margin-top: 100px;
+    margin-left: 50%;
 
 }
